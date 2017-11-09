@@ -9,5 +9,9 @@
     "discord.io": "^2.5.3",
     "request": "^2.83.0",
     "winston": "^2.4.0"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "watch": "nodemon bot.js"
   }
 }
